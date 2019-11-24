@@ -8,7 +8,7 @@
     <artifactId>diarybackend-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>diarybackend-app</module>
+        <module>diary-backend-app</module>
     </modules>
     <packaging>pom</packaging>
 
