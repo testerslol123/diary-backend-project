@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: diary-backend-app
+
+  data:
+    mongodb:
+      host: localhost
+      port:
+      database:
+
+server:
+  port: 8081
+
+logging:
+  level:
+    org:hibernate: INFO
+    com.diary.backend: INFO
+    org.springframework: INFO
